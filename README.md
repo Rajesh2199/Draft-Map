@@ -11,5 +11,6 @@ I can add 50 markers to the 50 states and do the same for all the countries arou
 than copying and pasting same code 50 times for the USA and another 200 times for 200 countries. If you guys have any suggestions on how to do that please let me 
 know.
 
-
+Here is the link to the map.
+https://rajesh2199.github.io/Draft-Map/
 
