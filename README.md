@@ -14,3 +14,5 @@ know. I think it involves creating an object in JavaScript and the assigning it 
 Here is the link to the map.
 https://rajesh2199.github.io/Draft-Map/
 
+The Practice.html is a file for another data visualization library that I am learning about. It does create really good visualizaitons but the coding seems
+very complicated and I feel like it is beyond the scope of the class and definitely beyond my mind can comprehend. 
