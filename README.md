@@ -9,7 +9,7 @@ if there is any changes to the data. I am still learning about data visualizatio
 
 Another limitation to it is adding 100s of markers.I can add 50 markers to the 50 states and do the same for all the countries around the world one at a time but I know for sure there is better way to do that( which I haven't figured out yet) and 
 then copying and pasting same code 50 times for the USA and another 200 times for 200 countries. If you guys have any suggestions on how to do that please let me 
-know.
+know. I think it involves creating an object in JavaScript and the assigning it to the multiple places.  I will continue to work on it and keep you guys posted.
 
 Here is the link to the map.
 https://rajesh2199.github.io/Draft-Map/
