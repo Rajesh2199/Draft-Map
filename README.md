@@ -1,5 +1,5 @@
 # Draft-Map
-So, I struggled to merger these files/codes with the original project files. I did not want to create more confusions for myself and you guys as well by constantly changin
+So, I struggled to merge these files/codes with the original project files. I did not want to create more confusions for myself and you guys as well by constantly changin
 the codes for map and adding it to the main repo. So I have created this repo just for map only because coding this map is a monster in itself.
 I will making changes to the codes and once we all can agree upon final version of the map, then I will add all the codes to our main repo for this project.
 
